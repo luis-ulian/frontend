@@ -5,7 +5,7 @@ Este projeto requer a recriação de uma página mobile e desktop baseada em um 
 ## Datas e formulário
 
 * Para ser considerada a entrega e termos acesso ao repositório é necessário que você preencha esse formulário: [link](https://forms.gle/TFZ7ks1TJxD5ksZi8)
-O projeto deve ser entregue até o dia **17/06 às 17h**
+* O projeto deve ser entregue até o dia **17/06 às 17h**
 
 
 ### Figma Design

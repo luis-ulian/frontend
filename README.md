@@ -2,6 +2,15 @@
 
 Este projeto requer a recriação de uma página mobile e desktop baseada em um design fornecido no Figma. A pessoa responsável por este teste deve utilizar o arquivo fornecido no projeto para desenvolver a página conforme as especificações do design.
 
+## Datas
+
+A primeira etapa do nosso processo é responder este formulário: [link](https://forms.gle/q316qhZp3ArSid3V8)
+
+Próximas etapas:
+Desafio técnico: Será enviado aqui no canal no dia **29/05**;
+Dinâmica presencial: Enviaremos mais informações posteriormente;
+As pessoas que mais se destacarem no processo serão convidadas para uma entrevista presencial com a nossa liderança.
+
 ### Figma Design
 O design a ser seguido está disponível no Figma no seguinte [link](https://www.figma.com/design/EjPsqBt4o5yktKvks0f072/[Wecode]-Vaga-Desenvolvedor-J%C3%BAnior?node-id=3006-1347&t=0G4hjFDhmnEiECiD-0)
 
